@@ -9,3 +9,8 @@ Set up your coding environment and get familiar with Python, NumPy and Matplotli
 
 - **Topics**: Python, Jupyter Notebook, NumPy, Matplotlib, GitHub
 
+## Week 1: PyTorch Foundations & Project Context
+
+Set up PyTorch and master its core concepts — tensors, autograd, and training loops — while getting your first look at how Scribe thinks about sketches.
+
+- **Topics**: PyTorch, Tensors, Autograd, nn.Module, Optimizers, MLP, Sketch sequences
